@@ -7,6 +7,8 @@
 - fun features at [Happydemics!](https://happydemics.com/)
 - :construction: a chaotic, black&white [portfolio website](https://laura-robles-rails-7-app.herokuapp.com/) for Laura, a musician from Peru.
 - :circus_tent: our local [Kindergarten](https://kila-hildegarten.de) 
+- :roller_coaster: an app that allows to track your blood work values with the [BloodTracker](http://thebloodtracker.com) 
+- :roller_coaster: a static website that teaches you how to bake a brazilian speciality, the [Bolo de Rolo](https://bolo-de-rolo.com) 
 
 
 <!--
